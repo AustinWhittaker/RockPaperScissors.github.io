@@ -1,3 +1,3 @@
 Rock Paper Scissors!
 
-#RockPaperScissors.github.io
+# RockPaperScissors.github.io
